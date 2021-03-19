@@ -1,0 +1,7 @@
+all:
+  hosts:
+    host1:
+      ansible_port: 22
+      ansible_host: 185.209.30.41
+      ansible_user: root
+      
